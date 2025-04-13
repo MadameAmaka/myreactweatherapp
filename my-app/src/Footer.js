@@ -16,7 +16,7 @@ export default function Footer() {
           Github
         </a>{" "}
         and hosted on{" "}
-        <a href="https://amakasweatherapp.netlify.app/" target="_blank" rel="noreferrer">
+        <a href="https://amakasreactweatherapp.netlify.app/" target="_blank" rel="noreferrer">
           {" "}
           Netlify{" "}
         </a>
